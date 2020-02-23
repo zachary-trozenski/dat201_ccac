@@ -1,6 +1,6 @@
 # dat201_ccac
-My name is Zach and I'm a linguist professionally. I've enrolled into CCAC's Data Analytics certificat program
-to learn more about how to use software and programming to help better visualize and tackle problems using
+My name is Zach and I'm a linguist professionally. I've enrolled into CCAC's Data Analytics certificate program
+to learn more about how to use software and programming (specifically Python) to help better visualize and tackle problems using
 data driven solutions. In my spare time I like to bird-watch, camp, play games, and watch movies.
 
 ## About this repo
