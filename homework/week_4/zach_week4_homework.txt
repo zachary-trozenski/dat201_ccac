@@ -1,0 +1,7 @@
+What can you tell me about the digital divide in PA?
+
+Judging by the map it seems that the digital divide counters my own assumptions. I would have assumed that the major cities like Pittsburgh, Philadelphia, and Harriburg would have strong concentrations of households with internet access and would radiate out towards rural areas decreasing in saturation. While that mostly holds true, there are many tracts within Allegheny county and the counties in and around Philadelphia that have high rates of no internet. However in face of that fact, it does appear that my assumption of the concentration of households without internet are in the more rural areas with the caveat that many urban tracts are missing internet as well.
+
+How about in Allegheny County?
+I was also surprised to see the distribution of low internet coverage in Allegheny county. It seems that many of the suburban areas to the north, west, and (to a lesser extent) the east have high percentages of internet coverage.
+It was surprising to see that the tracts on the Northshore, those in the Mon valley, and those in the north east (e.g. Wilkinsburg) have poor saturation of internet per househould. It seems that mostly like the state as a whole, the digital divide isn't necessarily geographic but also socio-econonomic with many low-income tracts not having access to internet.
