@@ -1,0 +1,12 @@
+Change log:
+- Downloaded data for PA bridges from the PASDA website (http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=35)
+
+- There was more data in the csv than I needed so I removed all columns save the following 26:
+
+FID	BRKEY	CTY_CODE	ST_RT_NO	ADMIN_JURI	DEC_LAT	DEC_LONG	BRIDGE_ID	FEATINT	DISTRICT	FACILITY	LOCATION	YEARBUILT	YEARRECON	MAINT_RESP	POST_STATU	NBI_RATING	PLACECODE	CONGRESS_D	COUNTY_MUN	HOUSE_DIST	SENATE_DIS	PLANNING_P	GIS_UPDATE	GIS_GEOMET	GPID
+
+- The reason was that these seemed to have the most accessibility for the layperson or non-civil engineers and for the fact that most of them were data about the bridges that could be easily understood in the absence of a schema.
+
+- I used shapefiles from TIGER/Line Shapefiles to gather census tracts as well as hydrology line shapefiles for Allegheny and Philadelphia counties (https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2018.html)
+
+- Image was pulled from a Google search (https://www.pa.gov/wp-content/themes/PA.Gov/img/logo/pa-keystone-large.png)
